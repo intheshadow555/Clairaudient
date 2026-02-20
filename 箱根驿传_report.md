@@ -1,25 +1,25 @@
 # 🎽 箱根驿传周报 (2026-02-20)
 本周为您汇总了 **10** 个新视频和 **5** 个经典回顾。
 
-## 🆕 最新发布 (New 10)
+## 🆕 本周热门发布 (Top 10 by 播放量)
 | 发布日期 | 标题 | UP主 | 播放量 |
 |---|---|---|---|
-| 2026-02-20 | [青学初代下山神-小野田勇次](https://www.bilibili.com/video/BV1K9ZrB6ES2) | 修猫2号 | 622 |
-| 2026-02-20 | [2023年 【99回】箱根驿传 G+ 中字：2区](https://www.bilibili.com/video/BV16qZBB9EzW) | 两分月亮 | 381 |
-| 2026-02-19 | [“青学最稳定的ace”](https://www.bilibili.com/video/BV1RAZiBuEdZ) | 缘尽思不续 | 2290 |
-| 2026-02-19 | [梁子加入青山大学箱根驿传](https://www.bilibili.com/video/BV1ELZvBGEtb) | 安考好了 | 3943 |
-| 2026-02-19 | [箱根驿传十个区间哪个最难？](https://www.bilibili.com/video/BV1xoZaB2EPc) | 跑不动的旺仔 | 4989 |
-| 2026-02-19 | [早期赛马娘参加箱根驿传珍贵录像](https://www.bilibili.com/video/BV1EGZYBiEoY) | 陨星1993 | 511 |
-| 2026-02-19 | [安吉玛：我旁边有八百张嘴在说话🤣](https://www.bilibili.com/video/BV1K6ZYB7EUg) | 徐北宸 | 1393 |
-| 2026-02-19 | [去寻找你的自由吧，OTA](https://www.bilibili.com/video/BV1w2ZYBVEPv) | 59520312741_bili | 175 |
-| 2026-02-19 | [“汗水不会说谎，坚持终将收获”](https://www.bilibili.com/video/BV1b2Z8B1Eg1) | -sunhine- | 552 |
-| 2026-02-19 | [中日双语字幕！山下智久《我们的箱根驿传》参演感言](https://www.bilibili.com/video/BV1NiZbBeETd) | 爱唱日文哥 | 213 |
+| 2026-02-17 | [青山学院四年级buff生效！松之九区压轴登场！102回箱根驿传详细解说：九区](https://www.bilibili.com/video/BV15qZuBwEUq) | 冰雨桑元气满满 | 29893 |
+| 2026-02-15 | [【箱根駅伝】『青学記録 vs 青学以外連合』打倒青学！](https://www.bilibili.com/video/BV1HtZpB1E1P) | 燃烧方式和虾米回宅水 | 10216 |
+| 2026-02-14 | [【熟肉】100回箱根驿传太田苍生cut](https://www.bilibili.com/video/BV1GZZ7BSE4B) | twoofus | 7800 |
+| 2026-02-16 | [“百年箱根第一人”](https://www.bilibili.com/video/BV1sEZuB5EGe) | 刀斩伤痛病 | 6084 |
+| 2026-02-19 | [箱根驿传十个区间哪个最难？](https://www.bilibili.com/video/BV1xoZaB2EPc) | 跑不动的旺仔 | 5114 |
+| 2026-02-17 | [takumi sen最严厉的父亲，国学院王牌追击手，日本最强大学生](https://www.bilibili.com/video/BV1wuZyBMEtb) | 雾-漫烟 | 5109 |
+| 2026-02-13 | [“青学最高杰作”](https://www.bilibili.com/video/BV1yLcjzgEo8) | 缘尽思不续 | 4365 |
+| 2026-02-17 | [我不行了，平林这两个运镜太有感觉了，平林这脚后跟都撩到我下巴了😍](https://www.bilibili.com/video/BV1dnZyBfExM) | 雾-漫烟 | 4225 |
+| 2026-02-14 | [“首马干碎我国全马记录的男人”](https://www.bilibili.com/video/BV1HBZ7BYEjh) | 缘尽思不续 | 4131 |
+| 2026-02-19 | [梁子加入青山大学箱根驿传](https://www.bilibili.com/video/BV1ELZvBGEtb) | 安考好了 | 4126 |
 
-## 🔥 经典/热门 (Hot 5)
-| 发布日期 | 标题 | UP主 | 播放量 |
-|---|---|---|---|
-| 2025-01-16 | [现实版强风吹拂|超详细解说101回箱根驿传](https://www.bilibili.com/video/BV1NBwVeGEyJ) | 在路上的蚂蚁- | 1422743 |
-| 2026-01-02 | [102回箱根驿传往路速递|新山神超级大反转](https://www.bilibili.com/video/BV1vPvZBzEcC) | 在路上的蚂蚁- | 228371 |
-| 2025-02-12 | [当身体达到极限 意志力会带你杀出重围](https://www.bilibili.com/video/BV1HjKGeGE2S) | 落晖-不止于中长 | 700452 |
-| 2025-12-31 | [这还是我们认识的大学长跑吗？「史上最强混战！」102回箱根驿传前瞻，一场前所未有的神仙打架！](https://www.bilibili.com/video/BV1cwiPBNEgE) | 在路上的蚂蚁- | 428132 |
-| 2023-12-04 | [前不久的全日本女子驿传再现了《强风吹拂》神童虐心一幕](https://www.bilibili.com/video/BV1zQ4y1x71w) | 跑者阿走 | 757681 |
+## 🔥 经典/热门 (Hot 5, 基于 click/scores/stow 加权排序)
+| 发布日期 | 标题 | UP主 | 播放量 | 得分 |
+|---|---|---|---|---|
+| 2025-01-17 | [「守江山」的压迫感你感受到了吗？欲戴皇冠，必受其重，你害怕皇冠的重量吗？](https://www.bilibili.com/video/BV19gwneCEPq) | 强风吹拂的文振 | 1834219 | 1.000 |
+| 2025-01-16 | [现实版强风吹拂&#124;超详细解说101回箱根驿传](https://www.bilibili.com/video/BV1NBwVeGEyJ) | 在路上的蚂蚁- | 1422800 | 0.938 |
+| 2021-11-28 | [【成为大迫杰】——本是流星划过，却点燃了看到他的人](https://www.bilibili.com/video/BV1sY411s7PQ) | 大李不王 | 1168858 | 0.900 |
+| 2025-01-06 | [动作变形的那一刻我真的很想赢](https://www.bilibili.com/video/BV1pRr5YoEfR) | 白亦爱跑步 | 985356 | 0.872 |
+| 2025-03-17 | [苦练的折返技术用上了。](https://www.bilibili.com/video/BV1VpQBYPEEg) | 400李时荣 | 945658 | 0.867 |
